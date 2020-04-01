@@ -8,8 +8,8 @@ header {
   height: 50px;
   position: fixed;
   top: 0;
-  z-index: 10;
-  width: 1000px;
+  z-index: 1;
+  width: auto;
 }
 
 .btn {
@@ -60,7 +60,7 @@ header {
 
 .main {
   height: auto;
-  width: 1000px;
+  width: auto;
   padding-top: 50px;
 }
 
@@ -80,7 +80,7 @@ header {
 
 footer {
   height: 125px;
-  width: 1000px;
+  width: auto;
   background-color: black;
 }
 
