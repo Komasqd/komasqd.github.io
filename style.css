@@ -59,7 +59,7 @@ header {
 
 
 .main {
-  height: 2500px;
+  height: auto;
   width: 1000px;
   padding-top: 50px;
 }
@@ -75,7 +75,7 @@ header {
 }
 
 .content-end {
-  margin: 40px 0;
+  padding: 50px 0;
 }
 
 footer {
