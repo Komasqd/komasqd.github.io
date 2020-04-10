@@ -1,5 +1,12 @@
+
+
 a {
   text-decoration: none;
+}
+
+body {
+  margin: 0 auto;
+  -webkit-text-size-adjust: 100%;
 }
 
 header {
@@ -9,7 +16,8 @@ header {
   position: fixed;
   top: 0;
   z-index: 1;
-  width: auto;
+  width: 100%;
+
 }
 
 .btn {
@@ -60,7 +68,8 @@ header {
 
 .main {
   height: auto;
-  width: auto;
+  width: 100%;
+  margin: 0 auto;
   padding-top: 50px;
 }
 
@@ -73,6 +82,7 @@ header {
   padding-bottom: 30px;
   padding-left: 50px;
   font-family: 'Yu Mincho';
+  text-align: center;
 }
 
 .content-end {
@@ -81,7 +91,8 @@ header {
 
 footer {
   height: 125px;
-  width: auto;
+  width: 100%;
+  margin: 0 auto;
   background-color: black;
 }
 
