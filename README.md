@@ -1,1 +1,0 @@
-# komasqd.github.io
